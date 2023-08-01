@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "645571348795",
+    "project_id": "authicationdemo-f6971",
+    "storage_bucket": "authicationdemo-f6971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645571348795:android:9e0368834f616cd83ccf1e",
+        "android_client_info": {
+          "package_name": "com.soicallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645571348795-am1fvemsi6l1j2s4q5db5mj68euc6ahk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soicallogin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "645571348795-iqjiqkhc4233qs6j4j90vdvmddvo79av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdIHz-KKbfu84MMBl7x_Vs8fjJAm0u9qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645571348795-iqjiqkhc4233qs6j4j90vdvmddvo79av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
